@@ -3,7 +3,7 @@ const fortunes = [
    Content: "Things to come are not a coincidence, but a choice. Do not wait - achieve! It's time to make a decision.",
   Color: "Red",
   Text: "Yellow",
-  Image: "White_choco.png"},
+  Image: "white_choco.png"},
   {Title: "Yes, the mirror is glistening so brightly!",
    Content: "Your victory is at hand. Move forward with courage.",
   Color: "Green",
