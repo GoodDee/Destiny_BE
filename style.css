@@ -1,0 +1,51 @@
+body
+{
+  background: darkorchid;
+  background: linear-gradient(to right, midnightblue, darkorchid);
+  color: white;
+  font-family: TrebuchetMS, Verdana;
+  //text-shadow: 2px 2px purple;
+}
+
+#container
+{
+  border: 2px dotted white;
+  background-color:orchid;
+  margin: 20px;
+  padding: 10px;
+}
+
+#fortune
+{
+  border: 2px solid white;
+  background-color: darkslateblue;
+  padding: 20px;
+}
+
+#Header{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#Content{
+    font-weight: normal;
+    font-size: 16px;
+    font-style: italic;
+}
+
+h1
+{
+  text-shadow:3px 3px purple;
+}
+
+#wrapper {
+    display: flex;
+  }
+  
+  #left {
+    flex: 0 0 80%;
+  }
+  
+  #right {
+    flex: 1;
+  }
